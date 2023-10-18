@@ -1,7 +1,9 @@
 ---
 title: Node.js安装与配置环境(Windows版)
 date: 2019-01-07 13:11:33
-tags: 前端笔记
+categories: 前端笔记
+tags: 
+- Node.js
 ---
 
 # Nodejs安装
