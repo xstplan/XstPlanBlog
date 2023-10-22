@@ -1,7 +1,7 @@
 ---
 title: .NET CLI
 date: 2022-02-12 19:00:40
-categories: C#
+categories: 后端笔记
 tags: 
 - C#
 ---
@@ -10,12 +10,14 @@ tags:
 > **官方文档地址：https://learn.microsoft.com/zh-cn/dotnet/core/tools/**
 
 # 创建应用程序
-首先确保已经安装.NET SDK
-然后打开命令终端，如cmd，PowerShell,输入以下内容
+> 首先确保已经安装.NET SDK
 
+> 然后打开命令终端，如**cmd，PowerShell**。
+
+> 输入以下内容：
 {% codeblock lang:PowerShell %}
 dotnet new console -o test 
 cd test
 dotnet run
-
 {% endcodeblock %}
+该命令主要创建一个新的.NET控制台应用程序项目，命名为**test**
