@@ -14,4 +14,8 @@ ES6 (ECMAscript) 简称ES是一种编写脚本编程语言，主要用于网页�
 - **ECMAScript3(ES3)**：1999年发布，定义了一些基础语言特性。
 - **ECMAScript5(ES5)**: 2009年发布，引入严格模式，json支持等。
 - **ECMAScript6(ES6)**：2015年发布，带来重大语言改进，如箭头函数、类、模块系统等。
+## ES6 环境
+目前大部分浏览器都支持ES6的新特性，如Chrome 、Edge 、Firefox 
+- 首先代码编辑器选择，可以选择Visual Studio Code
+- 安装Node.js，ES6需要使用Node.js来运行代码。
 

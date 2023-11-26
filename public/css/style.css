@@ -2114,7 +2114,7 @@ footer {
   .article-content pre,
   .article-content .highlight,
   .article-content .highlight pre {
-    font-size: 0.9em;
+    font-size: 1em;
   }
 }
 .article-content .highlight .gutter pre,
@@ -2125,7 +2125,7 @@ footer {
 @media only screen and (min-width: 568px) {
   .article-content .highlight .gutter pre,
   .article-content .gist .gist-file .gist-data .line-numbers {
-    font-size: 0.9em;
+    font-size: 1em;
     line-height: 1.5;
   }
 }
@@ -2138,7 +2138,7 @@ footer {
 }
 @media only screen and (min-width: 568px) {
   .article-content .highlight {
-    font-size: 0.9em;
+    font-size: 1em;
   }
 }
 .article-content .highlight pre {
