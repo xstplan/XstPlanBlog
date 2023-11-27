@@ -30,9 +30,9 @@ Node.js 官方网站下载：https://nodejs.org/en/download/
 
 **设置完成之后进行环境变量的配置分别为:**
 
-``` “环境变量”>“系统变量”：新建一个变量名为“NODE_PATH”，值为“D:\Program Files\nodejs\node_global\node_modules”```
+``` “环境变量”>“系统变量”：新建一个变量名为“NODE_PATH”，值为“C:\Program Files\nodejs\node_global”```
 
-``` “环境变量”>“用户变量”：编辑用户变量里的path，相应npm的路径C:\Users\用户名\AppData\Roaming\npm```
+``` “环境变量”>“系统变量”：编辑系统里的path，添加 %NODE_PATH%```
 
 ```“环境变量”>“用户变量”：编辑用户变量里的path，相应npm的路径C:\Program Files\nodejs\node_global```
 
