@@ -1,5 +1,5 @@
 ---
-title: Go 第一天的安装与环境配置
+title: Go第一天的安装与环境配置
 date: 2023-11-25 15:00:00
 tags: 
 - GoLang
