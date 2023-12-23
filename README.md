@@ -8,3 +8,4 @@ hexo clean
 hexo s 
 # 新建文件
 hexo new 名称
+

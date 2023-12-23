@@ -60,6 +60,7 @@ GOPATH路径最好只设置一个，所有的项目代码都放到GOPATH的src�
 12. 点击“确定”按钮
 
 # 创建项目
+命令行输入：go mod init
 
 在src目录下创建hello目录，在目录内创建main.go文件
 

@@ -28,7 +28,7 @@ tags:
 > CommunityToolkit.MVVM是一个用于创建基于MVVM（Model-View-ViewModel）设计模式的应用程序的开源工具包，它是Microsoft的CommunityToolkit项目的一部分。这个工具包旨在帮助开发人员更容易地构建XAML应用程序。
 
 ## 图表
-### LiveCharts2 - 实时图表
+### LiveChartsCore.SkiaSharpView.WPF - 实时图表
 > LiveCharts 是一个.Net 数据可视化库，可以跨多个设备和框架运行。包含MAUI，AVALONIA，UNO PLATFORM， ETOFOROMS，XAMARIN，BLAZOR WASM，WPF。
 ### SparrowToolkit 
 > 一套WPF图表控件集，支持绘制动态曲线，可绘制示波器、CPU使用率和波形。
