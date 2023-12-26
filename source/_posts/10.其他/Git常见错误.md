@@ -20,3 +20,7 @@ git config --global https.proxy http://127.0.0.1:4780
 {% endcodeblock %}
 再执行**git clone**即可
 
+如果不行则取消代理
+git config --global --unset http.proxy
+
+git config --global --unset https.proxy
