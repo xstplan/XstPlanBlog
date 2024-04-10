@@ -37,11 +37,13 @@ menu:
   home: / || fa-solid fa-home                        # || fa-solid fa-home
  # archives: /archives || fa-solid fa-box-archive          # || fa-solid fa-box-archive
   tags: /tags   || fa-solid fa-tags                   # || fa-solid fa-tags
+ # 软件: /app   || fa-solid fa-layer-group
   categories: /categories || fa-solid fa-layer-group        # || fa-solid fa-layer-group
   导航: https://hao.xstplan.com/  || fa-solid fa-link             # || fa-solid fa-link
   photos: /photos || fa-solid fa-image               # || fa-solid fa-image
-  tools: /tools   || fa-solid fa-layer-group            # || fa-solid fa-tools
+ # tools: /tools   || fa-solid fa-layer-group            # || fa-solid fa-tools
   about: /about || fa-solid fa-user-graduate               # || fa-solid fa-user-graduate
+
   # ......
 
 
