@@ -12,16 +12,16 @@ base_info:
   primary_color: "#0066cc"
 
   # Blog website title
-  title: PLANXS-BLOG
+  title: PLAN-XS
 
   # Blog website author name
   author: PLAN小帅
 
   # Author avatar, You can use local image path or image link
-  avatar: ../Img/0231125155322.png
+  avatar: ../Img/logo.png
 
   # Website LOGO, You can use local image path or image link
-  logo: ../Img/0231125155322.png
+  logo: ../Img/logo.png
 
   # Website favicon, You can use local image path or image link
   favicon: ../Img/favicon.ico
@@ -36,12 +36,12 @@ base_info:
 menu:
   home: / || fa-solid fa-home                        # || fa-solid fa-home
  # archives: /archives || fa-solid fa-box-archive          # || fa-solid fa-box-archive
-  tags: /tags   || fa-solid fa-tags                   # || fa-solid fa-tags
+ # tags: /tags   || fa-solid fa-tags                   # || fa-solid fa-tags
  # 软件: /app   || fa-solid fa-layer-group
   categories: /categories || fa-solid fa-layer-group        # || fa-solid fa-layer-group
   导航: https://hao.xstplan.com/  || fa-solid fa-link             # || fa-solid fa-link
   photos: /photos || fa-solid fa-image               # || fa-solid fa-image
- # tools: /tools   || fa-solid fa-layer-group            # || fa-solid fa-tools
+  tools: /tools   || fa-solid fa-tools            # || fa-solid fa-tools
   about: /about || fa-solid fa-user-graduate               # || fa-solid fa-user-graduate
 
   # ......

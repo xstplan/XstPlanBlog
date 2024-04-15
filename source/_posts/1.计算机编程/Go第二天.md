@@ -42,34 +42,34 @@ func main(){
 
 # **了解一下go的命令**
 输入go之后查看go相关命令（在已经安装的golang环境）
-> 
-go
+> go
 Go是一个管理Go源代码的工具。
 
 命令用法：
-
         go <command> [arguments]
 
 基本command命令:
 
-        bug        启动错误报告
-        build      编译包和依赖项
-        clean      删除对象文件和缓存文件
-        doc        显示包装或符号的文档
-        env        打印Go环境信息
-        fix        更新包以使用新的API
-        fmt        gofmt（重新格式化）包源
-        generate   通过处理源生成Go文件
-        get        将依赖项添加到当前模块并安装them
-        install    编译和安装包和依赖项
-        list       列出包或模块
-        mod        模块维护
-        work       工作空间维护
-        run        编译并运行Go程序
-        test       测试包
-        tool       运行指定的go工具
-        version    打印Go版本
-        vet        报告包中可能出现的错误
+| 命令    | 描述                           |
+|---------|--------------------------------|
+| bug     | 启动错误报告                   |
+| build   | 编译包和依赖项                 |
+| clean   | 删除对象文件和缓存文件         |
+| doc     | 显示包装或符号的文档           |
+| env     | 打印Go环境信息                 |
+| fix     | 更新包以使用新的API             |
+| fmt     | gofmt（重新格式化）包源        |
+| generate| 通过处理源生成Go文件           |
+| get     | 将依赖项添加到当前模块并安装them|
+| install | 编译和安装包和依赖项           |
+| list    | 列出包或模块                   |
+| mod     | 模块维护                       |
+| work    | 工作空间维护                   |
+| run     | 编译并运行Go程序               |
+| test    | 测试包                         |
+| tool    | 运行指定的go工具               |
+| version | 打印Go版本                     |
+| vet     | 报告包中可能出现的错误         |
 
 有关命令的详细信息，请使用“go help＜command＞”。
 

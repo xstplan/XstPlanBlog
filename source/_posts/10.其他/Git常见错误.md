@@ -1,7 +1,7 @@
 ---
 title: Git常见错误
 date: 2023-12-23 10:00:00
-categories: Git常见错误
+categories: 常见错误
 tags: 
 - Git
 - 错误
